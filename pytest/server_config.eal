@@ -1,0 +1,15 @@
+def Settings :=
+begin
+    maxConnections := 100;
+    timeout := 30;
+    retryAttempts := 5;
+end;
+
+def Database := begin
+    port := 5432;
+    maxPoolSize := 20;
+end;
+
+def Server :=
+begin
+end;

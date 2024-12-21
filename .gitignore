@@ -1,0 +1,6 @@
+# editors
+.venv
+.idea
+
+# misc
+wayback.py

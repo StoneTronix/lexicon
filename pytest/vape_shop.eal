@@ -1,0 +1,12 @@
+def categoryHigh := 25;
+
+def mangoChill :=
+    begin
+        prises :=
+            begin
+                categoryHigh := 49;
+            end;
+
+        prise := $[categoryHigh];
+        quantity := 560;
+    end;

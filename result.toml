@@ -1,0 +1,8 @@
+categoryHigh = 25
+
+[mangoChill]
+prise = 25
+quantity = 560
+
+[mangoChill.prises]
+categoryHigh = 49

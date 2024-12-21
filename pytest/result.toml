@@ -1,0 +1,10 @@
+[Settings]
+maxConnections = 100
+timeout = 30
+retryAttempts = 5
+
+[Database]
+port = 5432
+maxPoolSize = 20
+
+[Server]
